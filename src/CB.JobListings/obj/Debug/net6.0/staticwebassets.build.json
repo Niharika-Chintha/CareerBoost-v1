@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "In9HC1MHy9CWgtIibgQruHhrEceih9SAxDW9WeKkRIc=",
+  "Source": "CB.JobListings",
+  "BasePath": "_content/CB.JobListings",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

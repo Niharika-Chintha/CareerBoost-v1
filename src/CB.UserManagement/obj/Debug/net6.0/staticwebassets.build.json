@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1UyADSYldh9ZnUpIRBhJX8zqS5QpXLcfQQnYijKtfn0=",
+  "Source": "CB.UserManagement",
+  "BasePath": "_content/CB.UserManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

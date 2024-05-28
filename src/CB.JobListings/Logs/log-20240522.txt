@@ -1,0 +1,166 @@
+2024-05-22 18:15:14.415 +05:30 [INF] Now listening on: https://localhost:7136
+2024-05-22 18:15:14.472 +05:30 [INF] Now listening on: http://localhost:5031
+2024-05-22 18:15:14.482 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-22 18:15:14.484 +05:30 [INF] Hosting environment: Development
+2024-05-22 18:15:14.485 +05:30 [INF] Content root path: C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.JobListings\
+2024-05-22 18:15:19.651 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/ - -
+2024-05-22 18:15:19.758 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/ - - - 404 0 - 111.6070ms
+2024-05-22 18:15:23.331 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/index.html - -
+2024-05-22 18:15:23.503 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/index.html - - - 200 - text/html;charset=utf-8 171.5877ms
+2024-05-22 18:15:23.529 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - -
+2024-05-22 18:15:23.530 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - -
+2024-05-22 18:15:23.531 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - -
+2024-05-22 18:15:23.558 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-22 18:15:23.558 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-22 18:15:23.558 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-22 18:15:23.562 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - - - 200 144929 text/css 31.9761ms
+2024-05-22 18:15:23.562 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 30.2887ms
+2024-05-22 18:15:23.563 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 32.6294ms
+2024-05-22 18:15:23.810 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - -
+2024-05-22 18:15:23.834 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - -
+2024-05-22 18:15:23.836 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-22 18:15:23.839 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - - - 200 628 image/png 4.4410ms
+2024-05-22 18:15:23.917 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 106.6951ms
+2024-05-22 18:15:54.956 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7136/Jobs/Create application/json 136
+2024-05-22 18:15:54.968 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings)'
+2024-05-22 18:15:55.080 +05:30 [INF] Route matched with {action = "AddJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddJob(CB.JobListings.Models.Job) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:15:55.789 +05:30 [WRN] Job creation failed: software developer
+2024-05-22 18:15:55.797 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:15:55.832 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings) in 737.4358ms
+2024-05-22 18:15:55.840 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings)'
+2024-05-22 18:15:55.844 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7136/Jobs/Create application/json 136 - 400 - application/json;+charset=utf-8 887.8763ms
+2024-05-22 18:17:48.349 +05:30 [INF] Now listening on: https://localhost:7136
+2024-05-22 18:17:48.403 +05:30 [INF] Now listening on: http://localhost:5031
+2024-05-22 18:17:48.411 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-22 18:17:48.412 +05:30 [INF] Hosting environment: Development
+2024-05-22 18:17:48.413 +05:30 [INF] Content root path: C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.JobListings\
+2024-05-22 18:17:52.458 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/index.html - -
+2024-05-22 18:17:52.715 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/index.html - - - 200 - text/html;charset=utf-8 261.5946ms
+2024-05-22 18:17:52.753 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - -
+2024-05-22 18:17:52.753 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - -
+2024-05-22 18:17:52.753 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - -
+2024-05-22 18:17:52.812 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-22 18:17:52.812 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-22 18:17:52.816 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 62.9588ms
+2024-05-22 18:17:52.818 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-22 18:17:52.820 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - - - 200 144929 text/css 67.1172ms
+2024-05-22 18:17:52.829 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 75.5747ms
+2024-05-22 18:17:52.967 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - -
+2024-05-22 18:17:52.974 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - -
+2024-05-22 18:17:52.976 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-22 18:17:52.981 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - - - 200 628 image/png 7.5301ms
+2024-05-22 18:17:53.071 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 103.9342ms
+2024-05-22 18:18:22.531 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7136/Jobs/Create application/json 139
+2024-05-22 18:18:22.551 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings)'
+2024-05-22 18:18:22.649 +05:30 [INF] Route matched with {action = "AddJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddJob(CB.JobListings.Models.Job) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:18:23.378 +05:30 [INF] Job created successfully: software developer
+2024-05-22 18:18:23.386 +05:30 [INF] Executing OkObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:18:23.417 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings) in 755.9284ms
+2024-05-22 18:18:23.425 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings)'
+2024-05-22 18:18:23.431 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7136/Jobs/Create application/json 139 - 200 - application/json;+charset=utf-8 899.7099ms
+2024-05-22 18:18:46.911 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/Jobs/1 - -
+2024-05-22 18:18:46.917 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.GetJobById (CB.JobListings)'
+2024-05-22 18:18:46.933 +05:30 [INF] Route matched with {action = "GetJobById", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetJobById(Int32) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:18:46.999 +05:30 [INF] Job retrieved successfully: 1
+2024-05-22 18:18:47.002 +05:30 [INF] Executing OkObjectResult, writing value of type 'CB.JobListings.Models.Job'.
+2024-05-22 18:18:47.006 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.GetJobById (CB.JobListings) in 64.1199ms
+2024-05-22 18:18:47.011 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.GetJobById (CB.JobListings)'
+2024-05-22 18:18:47.014 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/Jobs/1 - - - 200 - application/json;+charset=utf-8 102.5290ms
+2024-05-22 18:18:55.053 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/Jobs/All - -
+2024-05-22 18:18:55.057 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.GetAllJobs (CB.JobListings)'
+2024-05-22 18:18:55.066 +05:30 [INF] Route matched with {action = "GetAllJobs", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllJobs() on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:18:55.102 +05:30 [INF] All jobs retrieved successfully.
+2024-05-22 18:18:55.103 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CB.JobListings.Models.Job, CB.JobListings, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-22 18:18:55.109 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.GetAllJobs (CB.JobListings) in 36.0436ms
+2024-05-22 18:18:55.111 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.GetAllJobs (CB.JobListings)'
+2024-05-22 18:18:55.116 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/Jobs/All - - - 200 - application/json;+charset=utf-8 62.5860ms
+2024-05-22 18:19:13.982 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7136/Jobs/Update application/json 24
+2024-05-22 18:19:13.991 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings)'
+2024-05-22 18:19:14.004 +05:30 [INF] Route matched with {action = "UpdateJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateJob(CB.JobListings.Models.Job) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:19:14.034 +05:30 [WRN] Job update failed: 0
+2024-05-22 18:19:14.036 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:19:14.038 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings) in 26.7744ms
+2024-05-22 18:19:14.040 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings)'
+2024-05-22 18:19:14.055 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7136/Jobs/Update application/json 24 - 400 - application/json;+charset=utf-8 72.5523ms
+2024-05-22 18:19:35.057 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7136/Jobs/Update application/json 112
+2024-05-22 18:19:35.067 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings)'
+2024-05-22 18:19:35.069 +05:30 [INF] Route matched with {action = "UpdateJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateJob(CB.JobListings.Models.Job) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:19:35.081 +05:30 [WRN] Job update failed: 0
+2024-05-22 18:19:35.083 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:19:35.085 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings) in 6.4109ms
+2024-05-22 18:19:35.087 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings)'
+2024-05-22 18:19:35.089 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7136/Jobs/Update application/json 112 - 400 - application/json;+charset=utf-8 31.9534ms
+2024-05-22 18:19:46.941 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7136/Jobs/Update application/json 112
+2024-05-22 18:19:46.953 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings)'
+2024-05-22 18:19:46.956 +05:30 [INF] Route matched with {action = "UpdateJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateJob(CB.JobListings.Models.Job) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:19:46.985 +05:30 [WRN] Job update failed: 0
+2024-05-22 18:19:46.991 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:19:46.997 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings) in 15.7532ms
+2024-05-22 18:19:47.005 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.UpdateJob (CB.JobListings)'
+2024-05-22 18:19:47.013 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7136/Jobs/Update application/json 112 - 400 - application/json;+charset=utf-8 72.2675ms
+2024-05-22 18:19:54.205 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7136/Jobs/Delete/1 - -
+2024-05-22 18:19:54.208 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.DeleteJob (CB.JobListings)'
+2024-05-22 18:19:54.219 +05:30 [INF] Route matched with {action = "DeleteJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteJob(Int32) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:19:54.261 +05:30 [WRN] Job deletion failed: 1
+2024-05-22 18:19:54.264 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:19:54.267 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.DeleteJob (CB.JobListings) in 26.3601ms
+2024-05-22 18:19:54.275 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.DeleteJob (CB.JobListings)'
+2024-05-22 18:19:54.278 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7136/Jobs/Delete/1 - - - 400 - application/json;+charset=utf-8 73.1976ms
+2024-05-22 18:22:43.908 +05:30 [INF] Now listening on: https://localhost:7136
+2024-05-22 18:22:43.971 +05:30 [INF] Now listening on: http://localhost:5031
+2024-05-22 18:22:43.976 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-22 18:22:43.978 +05:30 [INF] Hosting environment: Development
+2024-05-22 18:22:43.982 +05:30 [INF] Content root path: C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.JobListings\
+2024-05-22 18:22:44.124 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/index.html - -
+2024-05-22 18:22:44.338 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/index.html - - - 200 - text/html;charset=utf-8 217.9284ms
+2024-05-22 18:22:44.393 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - -
+2024-05-22 18:22:44.393 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - -
+2024-05-22 18:22:44.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - -
+2024-05-22 18:22:44.431 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-22 18:22:44.431 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-22 18:22:44.435 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 41.2474ms
+2024-05-22 18:22:44.435 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - - - 200 144929 text/css 41.4156ms
+2024-05-22 18:22:44.443 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-22 18:22:44.447 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 53.5984ms
+2024-05-22 18:22:44.718 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - -
+2024-05-22 18:22:44.728 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - -
+2024-05-22 18:22:44.731 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-22 18:22:44.733 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - - - 200 628 image/png 5.3269ms
+2024-05-22 18:22:44.820 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 102.0039ms
+2024-05-22 18:22:54.202 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7136/Jobs/Delete/1 - -
+2024-05-22 18:22:54.215 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.DeleteJob (CB.JobListings)'
+2024-05-22 18:22:54.304 +05:30 [INF] Route matched with {action = "DeleteJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteJob(Int32) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:22:54.913 +05:30 [INF] Job deleted successfully: 1
+2024-05-22 18:22:54.938 +05:30 [INF] Executing OkObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:22:54.994 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.DeleteJob (CB.JobListings) in 677.8153ms
+2024-05-22 18:22:55.000 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.DeleteJob (CB.JobListings)'
+2024-05-22 18:22:55.005 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7136/Jobs/Delete/1 - - - 200 - application/json;+charset=utf-8 803.0414ms
+2024-05-22 18:24:17.319 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7136/Jobs/Create application/json 131
+2024-05-22 18:24:17.320 +05:30 [INF] Executing endpoint 'CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings)'
+2024-05-22 18:24:17.323 +05:30 [INF] Route matched with {action = "AddJob", controller = "Jobs"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddJob(CB.JobListings.Models.Job) on controller CB.JobListings.Controllers.JobsController (CB.JobListings).
+2024-05-22 18:24:17.376 +05:30 [INF] Job created successfully: data scientist
+2024-05-22 18:24:17.377 +05:30 [INF] Executing OkObjectResult, writing value of type 'CB.JobListings.Models.Response'.
+2024-05-22 18:24:17.378 +05:30 [INF] Executed action CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings) in 54.3905ms
+2024-05-22 18:24:17.379 +05:30 [INF] Executed endpoint 'CB.JobListings.Controllers.JobsController.AddJob (CB.JobListings)'
+2024-05-22 18:24:17.386 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7136/Jobs/Create application/json 131 - 200 - application/json;+charset=utf-8 66.8732ms
+2024-05-22 18:32:04.981 +05:30 [INF] Now listening on: https://localhost:7136
+2024-05-22 18:32:05.035 +05:30 [INF] Now listening on: http://localhost:5031
+2024-05-22 18:32:05.044 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-22 18:32:05.046 +05:30 [INF] Hosting environment: Development
+2024-05-22 18:32:05.049 +05:30 [INF] Content root path: C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.JobListings\
+2024-05-22 18:32:10.335 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/index.html - -
+2024-05-22 18:32:10.575 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/index.html - - - 200 - text/html;charset=utf-8 244.6346ms
+2024-05-22 18:32:10.613 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - -
+2024-05-22 18:32:10.614 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - -
+2024-05-22 18:32:10.614 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - -
+2024-05-22 18:32:10.653 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-22 18:32:10.653 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-22 18:32:10.669 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-22 18:32:10.671 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui.css - - - 200 144929 text/css 57.7519ms
+2024-05-22 18:32:10.671 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 56.8450ms
+2024-05-22 18:32:10.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 64.0172ms
+2024-05-22 18:32:10.885 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - -
+2024-05-22 18:32:10.913 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - -
+2024-05-22 18:32:10.917 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-22 18:32:10.919 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/favicon-32x32.png - - - 200 628 image/png 6.2238ms
+2024-05-22 18:32:11.001 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7136/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 116.5289ms

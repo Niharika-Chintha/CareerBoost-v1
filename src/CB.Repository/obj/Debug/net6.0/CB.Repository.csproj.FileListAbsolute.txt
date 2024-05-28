@@ -1,0 +1,12 @@
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.csproj.AssemblyReference.cache
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.AssemblyInfoInputs.cache
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.AssemblyInfo.cs
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.csproj.CoreCompileInputs.cache
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\bin\Debug\net6.0\CB.Repository.deps.json
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\bin\Debug\net6.0\CB.Repository.dll
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\bin\Debug\net6.0\CB.Repository.pdb
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.dll
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\refint\CB.Repository.dll
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\CB.Repository.pdb
+C:\Users\niharika.chintha\OneDrive - Organization\Workspace\CAREERBOOST\src\CB.Repository\obj\Debug\net6.0\ref\CB.Repository.dll
